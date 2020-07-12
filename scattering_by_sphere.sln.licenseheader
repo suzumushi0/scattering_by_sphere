@@ -1,0 +1,9 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+//
+// Copyright (c) %CreationYear% Muneyoshi Suzuki. All Rights Reserved. 
+//
+// %CurrentYear%-%CurrentMonth%-%CurrentDay%
+//
+// %FileName%: 
+//
